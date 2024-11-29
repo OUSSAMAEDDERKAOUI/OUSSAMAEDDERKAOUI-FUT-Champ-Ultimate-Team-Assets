@@ -114,7 +114,7 @@
       },
       {
         "name": "Mohamed Salah",
-        "photo": "https://cdn.sofifa.net/players/192/985/25_120.png",
+        "photo": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-portraits/p209331.png?padding=0.7",
         "position": "RW",
         "nationality": "Egypt",
         "flag": "https://cdn.sofifa.net/flags/eg.png",
@@ -327,6 +327,7 @@
         "nationality": "England",
         "flag": "https://cdn.sofifa.net/flags/gb-eng.png",
         "club": "Liverpool",
+        "logo":"https://cdn.sofifa.net/meta/team/8/120.png",
         "rating": 87,
         "pace": 76,
         "shooting": 66,
