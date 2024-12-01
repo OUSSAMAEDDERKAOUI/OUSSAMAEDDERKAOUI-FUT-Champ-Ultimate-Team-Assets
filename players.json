@@ -19,7 +19,7 @@
       {
         "name": "Cristiano Ronaldo",
         "photo": "https://cdn.sofifa.net/players/020/801/25_120.png",
-        "position": "ST",
+        "position": "STL",
         "nationality": "Portugal",
         "flag": "https://cdn.sofifa.net/flags/pt.png",
         "club": "Al Nassr",
@@ -35,7 +35,7 @@
       {
         "name": "Kevin De Bruyne",
         "photo": "https://cdn.sofifa.net/players/192/985/25_120.png",
-        "position": "CM",
+        "position": "CML",
         "nationality": "Belgium",
         "flag": "https://cdn.sofifa.net/flags/be.png",
         "club": "Manchester City",
@@ -51,7 +51,7 @@
       {
         "name": "Kylian Mbappé",
         "photo": "https://cdn.sofifa.net/players/231/747/25_120.png",
-        "position": "ST",
+        "position": "STL",
         "nationality": "France",
         "flag": "https://cdn.sofifa.net/flags/fr.png",
         "club": "Real Madrid",
@@ -67,7 +67,7 @@
       {
         "name": "Virgil van Dijk",
         "photo": "https://cdn.sofifa.net/players/203/376/25_120.png",
-        "position": "CB",
+        "position": "CBL",
         "nationality": "Netherlands",
         "flag": "https://cdn.sofifa.net/flags/nl.png",
         "club": "Liverpool",
@@ -83,7 +83,7 @@
       {
         "name": "Antonio Rudiger",
         "photo": "https://cdn.sofifa.net/players/205/452/25_120.png",
-        "position": "CB",
+        "position": "CBR",
         "nationality": "Germany",
         "flag": "https://cdn.sofifa.net/flags/de.png",
         "club": "Real Madrid",
@@ -131,7 +131,7 @@
       {
         "name": "Joshua Kimmich",
         "photo": "https://cdn.sofifa.net/players/212/622/25_120.png",
-        "position": "CM",
+        "position": "CMR",
         "nationality": "Germany",
         "flag": "https://cdn.sofifa.net/flags/de.png",
         "club": "Bayern Munich",
@@ -163,7 +163,7 @@
       {
         "name": "Luka Modrić",
         "photo": "https://cdn.sofifa.net/players/177/003/25_120.png",
-        "position": "CM",
+        "position": "CML",
         "nationality": "Croatia",
         "flag": "https://cdn.sofifa.net/flags/hr.png",
         "club": "Real Madrid",
@@ -211,7 +211,7 @@
       {
         "name": "Karim Benzema",
         "photo": "https://cdn.sofifa.net/players/165/153/25_120.png",
-        "position": "ST",
+        "position": "STR",
         "nationality": "France",
         "flag": "https://cdn.sofifa.net/flags/fr.png",
         "club": "Al-Ittihad",
@@ -227,7 +227,7 @@
       {
         "name": "Erling Haaland",
         "photo": "https://cdn.sofifa.net/players/239/085/25_120.png",
-        "position": "ST",
+        "position": "STL",
         "nationality": "Norway",
         "flag": "https://cdn.sofifa.net/flags/no.png",
         "club": "Manchester City",
@@ -291,7 +291,7 @@
       {
         "name": "Bruno Fernandes",
         "photo": "https://cdn.sofifa.net/players/212/198/25_120.png",
-        "position": "CM",
+        "position": "CML",
         "nationality": "Portugal",
         "flag": "https://cdn.sofifa.net/flags/pt.png",
         "club": "Manchester United",
@@ -355,7 +355,7 @@
       {
         "name": "Youssef En-Nesyri",
         "photo": "https://cdn.sofifa.net/players/235/410/25_120.png",
-        "position": "ST",
+        "position": "STR",
         "nationality": "Morocco",
         "flag": "https://cdn.sofifa.net/flags/ma.png",
         "club": "Fenerbahçe",
@@ -387,7 +387,7 @@
       {
         "name": "Ismael Saibari",
         "photo": "https://cdn.sofifa.net/players/259/480/25_120.png",
-        "position": "CM",
+        "position": "CML",
         "nationality": "Morocco",
         "flag": "https://cdn.sofifa.net/flags/ma.png",
         "club": "PSV",
@@ -419,7 +419,7 @@
       {
         "name": "Ruben Dias",
         "photo": "https://cdn.sofifa.net/players/239/818/25_120.png",
-        "position": "CB",
+        "position": "CBL",
         "nationality": "Portugal",
         "flag": "https://cdn.sofifa.net/flags/pt.png",
         "club": "Manchester City",
@@ -435,7 +435,7 @@
     {
         "name": "William Saliba",
         "photo": "https://cdn.sofifa.net/players/243/715/25_120.png",
-        "position": "CB",
+        "position": "CBR",
         "nationality": "France",
         "flag": "https://cdn.sofifa.net/flags/fr.png",
         "club": "Arsenal",
@@ -451,7 +451,7 @@
     {
         "name": "Marquinhos",
         "photo": "https://cdn.sofifa.net/players/207/865/25_120.png",
-        "position": "CB",
+        "position": "CBL",
         "nationality": "Brazil",
         "flag": "https://cdn.sofifa.net/flags/br.png",
         "club": "Paris Saint-Germain",
@@ -467,7 +467,7 @@
     {
       "name": "Alessandro Bastoni",
       "photo": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-portraits/p237383.png?padding=0.7",
-      "position": "CB",
+      "position": "CBR",
       "nationality": "Italy",
       "flag": "https://images.ctfassets.net/rs6bgs1g8dbr/EHrJWMzTNIVkWKssiD4Oc/366d836ba975be3d6abf7d3ffdebbb3f/f_27.png",
       "club": "Lombardia FC",
@@ -483,7 +483,7 @@
     {
       "name": "Gabriel dos S. Magalhães",
       "photo": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-portraits/p232580.png?padding=0.7",
-      "position": "CB",
+      "position": "CBR",
       "nationality": "Brazil",
       "flag": "https://images.ctfassets.net/rs6bgs1g8dbr/3Rwp4RzPbtNP3FHh21UXAG/1d1cf1b849dfaeb232744c8c725d93b6/f_54.png",
       "club": "Arsenal",
@@ -563,7 +563,7 @@
 {
   "name": "Alexis Mac Allister",
   "photo": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-portraits/p239837.png?padding=0.7",
-  "position": "CM",
+  "position": "CMR",
   "nationality": "Argentina",
   "flag": "https://images.ctfassets.net/rs6bgs1g8dbr/2WDsnQSFUeeDtN5E5VaRtQ/fd880af45fc99e56aac677d6bf583d77/f_52.png",
   "club": "Liverpool",
@@ -575,6 +575,22 @@
   "dribbling": 84,
   "defending": 76,
   "physical": 76
+},
+        {
+    "name": "Harry Kane",
+    "photo": "https://ratings-images-prod.pulse.ea.com/FC25/full/player-portraits/p202126.png?padding=0.7",
+    "position": "ST",
+    "nationality": "England",
+    "flag": "https://images.ctfassets.net/rs6bgs1g8dbr/4BVs0BAE16wJ4ihZS72xv8/5f2bab28b731170d875d4b0dd66b3664/f_14.png",
+    "club": "FC Bayern München",
+    "logo": "https://images.ctfassets.net/rs6bgs1g8dbr/3XIP49qCKQQznt0zxfZXiy/f06982ce9614d92641252d1277b3d580/FC_Bayern_M_nchen.png",
+    "rating": 90,
+    "pace": 65,
+    "shooting": 93,
+    "passing": 84,
+    "dribbling": 82,
+    "defending": 49,
+    "physical": 82
 }
     ]
   }
